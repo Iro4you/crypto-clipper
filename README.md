@@ -4,7 +4,6 @@
 <div align="center">
 
 
-![](https://img.shields.io/github/stars/OringoDevelopment/Crypto-Clipper?style=for-the-badge&color=yellow)
 ![](https://img.shields.io/github/forks/OringoDevelopment/Crypto-Clipper?style=for-the-badge)
 ![](https://img.shields.io/badge/LICENSE-GLPv3-brightgreen?style=for-the-badge)
 
